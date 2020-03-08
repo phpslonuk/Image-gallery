@@ -1,6 +1,8 @@
 # Image-gallery
 Simple image slider
 
+https://phpslonuk.github.io/Image-gallery/
+
 I used technologies such as
 HTML
 CSS
